@@ -64,9 +64,9 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 
-<img width="275" height="884" alt="494687591-d4bfd6b9-14e4-4ac6-a1c5-b7d01a658609" src="https://github.com/user-attachments/assets/7d054100-33e2-4b65-8482-fb3c7a647ef0" />
+<img width="275" height="884" alt="494687591-d4bfd6b9-14e4-4ac6-a1c5-b7d01a658609" src="https://github.com/user-attachments/assets/7d054100-33e2-4b65-8482-fb3c7a647ef0" />\n
 
-<img width="425" height="883" alt="494687690-e4d48c04-5374-4d1f-9c2c-b4eb4c7cf843" src="https://github.com/user-attachments/assets/054bf8d1-4639-478b-b908-00bcb0f008c0" />
+<img width="425" height="883" alt="494687690-e4d48c04-5374-4d1f-9c2c-b4eb4c7cf843" src="https://github.com/user-attachments/assets/054bf8d1-4639-478b-b908-00bcb0f008c0" />\n
 
 <img width="299" height="50" alt="494687872-5d35eb0f-4a7b-4d7a-8547-9156d5466683" src="https://github.com/user-attachments/assets/609a2ba0-cc3e-4381-b709-93d8f532174f" />
 
